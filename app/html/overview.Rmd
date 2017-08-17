@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+
+### League Overview
+Built on a foundation of degeneracy and debauchery, the beginnings of the Rville Fantasy League can be traced back to the year 2006. Times were simpler. Members of the League were seemingly placed on this Earth for the sole purpose of bashing each other on the message board. One particular manager took the brunt of this abuse, our old buddy and never forgotten comrade, Mihir. In 2015, the Live-Ball Era was retroactively selected for record keeping purposes to start in the 2011 season and a new, League defining rule was ratified.  No longer a league memeber, "Mihir" was chosen as the namesake for the last place finisher, the last place finisher's award trophy, and the punishment that accompanies last place. Every year brings duality to a rather bleak existence for the league members: The race for the Championship, and the race for 12th place. One shall bask in glory and fame, while another shall sulk in disgrace and shame.
+
+2017 brings the RFL its 1st Annual Draft Day Weekend and also some burning questions: Will Mike become the first ever three-peat Champion? Who will be Mihir III? What round will Fred blackout? Will Kevin have more money in sidebets than the actual buy-in? Will Trevor bring forth a winter more fierce than the Night King? Has Chaz finally gone through enough Monte Carlo simulations to perfect his championship algorithm? Will Cory give up in the middle of the season? Will Sammy start 0-6 for the 4th straight year? Will Fried draft Rashard Mendenhall in round 1? Will Sean draft the entire Patriots team again? Which magazine will Brandon use? These questions will be answered in due time, but until then, chaos will ensue. As we all know, chaos is a ladder, and with that we are left with one last question: Who will climb to the top? 
+
+
+
+### Commissioner's Corner
+As we all know, last year began a new league tradition. The high scorer shall earn the rights to write up predictions for the coming week while the low scorer is tasked with giving a preview of the previous week. Check out the most recent previews and recaps [Here] (https://football.fantasysports.yahoo.com/f1/39315/messages)
+
+
+

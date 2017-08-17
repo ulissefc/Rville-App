@@ -1,0 +1,7 @@
+---
+title: "BestDraft"
+output: html_document
+---
+
+### Who Actually is The Best Drafter?
+The table below providews insights into some of the best drafts the RFL has ever seen. Drafts are listed in order of greatest projection-weighted returns. The metric analyzes players' deviation from pre-season projections and actual performance. As is evident in this league, the draft is just the beginning. Only one championship team appears in the top 10 drafts of all time. In the RFL landscape, championships seem to be made by wheelin', dealin', and waiver wire stealin'. 

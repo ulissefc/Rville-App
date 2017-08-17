@@ -1,0 +1,25 @@
+---
+title: "rob_Desc"
+output: html_document
+---
+
+### Rob Zingaro
+**Nicknames: "Rob"**   
+**Years of Service: 5**   
+**Championships: 0**    
+**Power Rank:**  
+
+When you think Rob Zingaro what do you think? The evolution of Robbie can be attributed to two NFL teams of recent
+memory. When I think Rob Zingaro, I think Cincinatti Bengals and Andy Dalton. A team that looks promising every year,
+only to be let down without even sniffing a first round playoff win. Not so fast though. Through his trials and
+tribulations, Rob finally gained enough XP last year to evolve into the Atlanta Falcons. He thought he was finally over
+the hump as he soared high into the finals with what looked to be a surefire victory and his breakthrough into league
+history. What goes up must come down though, as those championship dreams came to a screeching halt at the roots of the
+Beanstalk. As the clock ticked down, things became bleaker and bleaker, until Bean finally dropped the finishing blow,
+edging Rob out by less than a point. The league replayed things in their head, over and over, wondering where it went
+wrong for Rob, but to much dismay, a stat correction was not given. Will this defeat send Rob retreating into
+hibernation like the cicadas, not to be seen for another 16 years? Look for Rob to come out guns blazing on a redemption
+tour to prove once and for all that nice guys don't always finish last. 
+
+**Attributes:** Being league nice guy. Having an overly positive and optimistic outlook even after years of heartbreak.   
+**Leage Moment:** 2016 - Leading the Championship game by 20+ points with Justin Forsett and Kansas City Defense left vs. Tyreek Hill and Spencer Ware, ends up losing by 0.66 in the closest Championship game in RFL History.

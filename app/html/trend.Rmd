@@ -1,0 +1,7 @@
+---
+title: "Trend"
+output: html_document
+---
+### Trend Analysis
+
+The trend analysis tool is designed to allow for GMs to take a deep dive into the data and provide the information needed to support the claim of greatest fantasy manager. Need to know who you dominate? Your have arrived at the right spot. The table below shows the selected GM's record versus other GMs in the league. The chart shows how much better or worse a GM performs in comparison to their overall historical average. For example, Sammy has an 11.54 +/- against Bean, inidcating that when Sammy plays Bean he scores 11.54 more points than his overall points scored average.   

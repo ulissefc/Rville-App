@@ -1,0 +1,85 @@
+Team,Season,Round,Outcome,Points For,Points Against,Opponent
+Cory,6,Quarter Final,Win,0,0,Bye
+Bean,6,Quarter Final,Win,83.82,80.86,Fried
+Chaz,6,Quarter Final,Loss,94.7,123.44,Rob
+Fried,6,Quarter Final,Loss,80.86,83.82,Bean
+Rob,6,Quarter Final,Win,123.44,94.7,Chaz
+Brandon,6,Quarter Final,Win,0,0,Bye
+Cory,6,Semi Final,Loss,80.44,93.8,Bean
+Rob,6,Semi Final,Win,106.82,67.68,Brandon
+Bean,6,Semi Final,Win,93.8,80.44,Cory
+Brandon,6,Semi Final,Loss,67.68,106.82,Rob
+Brandon,6,Third Place Game,,161.28,112.28,Cory
+Cory,6,Third Place Game,,112.28,161.28,Brandon
+Bean,6,Final,Win,161.28,104.56,Rob
+Rob,6,Final,Loss,104.56,161.28,Bean
+Bean,5,Quarter Final,Win,0,0,Bye
+Tyler,5,Quarter Final,Win,99.92,97.72,Chaz
+Trev,5,Quarter Final,Loss,93.42,113.84,KB
+Fred,5,Quarter Final,Win,0,0,Bye
+Chaz,5,Quarter Final,Loss,97.72,99.92,Tyler
+KB,5,Quarter Final,Win,113.84,93.42,Trev
+Bean,5,Semi Final,Win,137.26,113.98,Tyler
+Fred,5,Semi Final,Loss,122.46,145.54,KB
+Tyler,5,Semi Final,Loss,113.98,137.26,Bean
+KB,5,Semi Final,Win,145.54,122.46,Fred
+Fred,5,Third Place Game,Loss,123.1,123.38,Tyler
+Tyler,5,Third Place Game,Win,123.38,123.1,Fred
+Bean,5,Final,Win,123.54,63.86,KB
+KB,5,Final,Loss,63.86,123.54,Bean
+Jay,4,Quarter Final,Win,0,0,Bye
+Tyler,4,Quarter Final,Win,0,0,Bye
+Fred,4,Quarter Final,Win,143.44,103.14,Rob
+Sammy,4,Quarter Final,Win,130.98,83.72,Fried
+Rob,4,Quarter Final,Loss,103.14,143.44,Fred
+Fried,4,Quarter Final,Loss,83.72,130.98,Sammy
+Jay,4,Semi Final,Win,94.62,91.76,Fred
+Sammy,4,Semi Final,Win,90.76,61.8,Tyler
+Fred,4,Semi Final,Loss,91.76,94.62,Jay
+Tyler,4,Semi Final,Loss,61.8,90.76,Sammy
+Fred,4,Third Place Game,Loss,85.98,93.76,Tyler
+Tyler,4,Third Place Game,Win,93.76,85.98,Fred
+Jay,4,Final,Win,115.2,79.32,Sammy
+Sammy,4,Final,Loss,79.32,115.2,Jay
+Bean,3,Quarter Final,Win,0,0,Bye
+Sammy,3,Quarter Final,Win,0,0,Bye
+Fred,3,Quarter Final,Loss,102.92,144.88,KB
+Tyler,3,Quarter Final,Win,155.2,87.62,Jay
+KB,3,Quarter Final,Win,144.88,102.92,Fred
+Jay,3,Quarter Final,Loss,87.62,155.2,Tyler
+Bean,3,Semi Final,Loss,63.78,101.86,KB
+Tyler,3,Semi Final,Win,153.56,104.24,Sammy
+KB,3,Semi Final,Win,101.86,63.78,Bean
+Sammy,3,Semi Final,Loss,104.24,153.56,Tyler
+Bean,3,Third Place Game,Loss,83.48,96.66,Sammy
+Sammy,3,Third Place Game,Win,96.66,83.48,Bean
+KB,3,Final,Loss,86.3,91.5,Tyler
+Tyler,3,Final,Win,91.5,86.3,KB
+Fred,2,Quarter Final,Win,0,0,Bye
+Sean,2,Quarter Final,Win,0,0,Bye
+Jay,2,Quarter Final,Win,150.8,91.56,Fried
+Sammy,2,Quarter Final,Loss,107.78,115.2,Trev
+Fried,2,Quarter Final,Loss,91.56,150.8,Jay
+Trev,2,Quarter Final,Win,115.2,107.78,Sammy
+Fred,2,Semi Final,Loss,103.44,121.24,Jay
+Trev,2,Semi Final,Loss,93.38,118.72,Sean
+Jay,2,Semi Final,Win,121.24,103.44,Fred
+Sean,2,Semi Final,Win,118.72,93.38,Trev
+Fred,2,Third Place Game,Win,125.52,95.36,Trev
+Trev,2,Third Place Game,Loss,95.36,125.52,Fred
+Jay,2,Final,Win,156.16,96.4,Sean
+Sean,2,Final,Loss,96.4,156.16,Jay
+Tyler,1,Quarter Final,Win,0,0,Bye
+Bean,1,Quarter Final,Win,0,0,Bye
+Fred,1,Quarter Final,Win,86.54,76.34,Brandon
+Sean,1,Quarter Final,Loss,105.04,127.8,Fried
+Brandon,1,Quarter Final,Loss,76.34,86.54,Fred
+Fried,1,Quarter Final,Win,127.8,105.04,Sean
+Fred,1,Semi Final,Win,122.96,96.16,Tyler
+Fried,1,Semi Final,Win,103.4,102.84,Bean
+Tyler,1,Semi Final,Loss,96.16,122.96,Fred
+Bean,1,Semi Final,Loss,102.84,103.4,Fried
+Tyler,1,Third Place Game,Loss,90.44,111.52,Bean
+Bean,1,Third Place Game,Win,111.52,90.44,Tyler
+Fred,1,Final,Loss,90.54,134.06,Fried
+Fried,1,Final,Win,134.06,90.54,Fred

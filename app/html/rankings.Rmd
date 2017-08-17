@@ -1,0 +1,19 @@
+---
+title: 'Rankings'
+output: html_document
+---
+
+### Ranking System  
+GMs are ranked based on the amount of "Power Points" they have earned over the course of the RFL live-ball era. Power Points can be gained or lost based on performance in various statistics, which are listed below.
+
+**Historical Record**   
+What's a more straightforward way to view a given managers historical success? One Power Point is awarded (subtracted) for every game above (below) .500.  
+
+**Fantasy Point Differential Per Game (FPD/G):**  
+FPD/G is calculated by taking the average weekly points scored per manager and subtracting the league average weekly points score. Power Points are awarded (subtracted) for every point or fraction of a point you score above (below) the league average.
+
+**Weeks as High/Low Scorer:**   
+Outstanding weekly achievements should not be overlooked. One Power Point is awarded awarded (subtracted) for each time a GM was the high (low) scorer of the week.  
+
+**Playoffs:**   
+GMs are awarded 4 Power Points for each playoff appearance as well as 2 for each playoff bye earned. Additionally, GMs are awarded 6 points for each 3rd place finish, 12 points for each 2nd place finish, and 24 points for each Championship.
